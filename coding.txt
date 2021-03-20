@@ -1,3 +1,9 @@
+2021-03-20 16:13 bowen
+    應該是已經錄製成功了，最佳使用方法是分頁全螢幕錄製
+    todo 要問阿邦老師是否需要轉 .webm to .mp4
+        ffmpeg -i input.webm -preset superfast output.mp4
+    準備上 vercel
+
 2021-03-20 15:34 bowen
     改用 webstorm 開發，避免狗三八缺點
     發布可以運用vercel發布是可以的
