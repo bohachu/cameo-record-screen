@@ -1,3 +1,17 @@
+2021-03-20 17:31 bowen
+    cameo-record-screen 簡短的使用教學影片
+    https://youtu.be/wbprHWTX1vg
+
+    這是線上直接可以使用來錄製的應用程式網址
+    https://cameo-record-screen.vercel.app/
+
+    這是目前可以用來播放 p5 動畫的發佈網址
+    https://cameo-record-screen.vercel.app/p5/
+
+    瀏覽器如果按下「檢視網頁原始碼」可以看到如何引用 .js 來應用，只要兩行
+    <script src="cameo-record-screen.js"></script>
+    <cameo-record-screen/>
+
 2021-03-20 16:13 bowen
     應該是已經錄製成功了，最佳使用方法是分頁全螢幕錄製
     todo 要問阿邦老師是否需要轉 .webm to .mp4
