@@ -1,9 +1,13 @@
+2021-03-20 15:34 bowen
+    改用 webstorm 開發，避免狗三八缺點
+    發布可以運用vercel發布是可以的
+
 2021-03-20 15:19 bowen
-  準備整合輸出為 webm 格式以及 p5.js 
-  p5.js作品在此
-  https://editor.p5js.org/ponglam/sketches/hxkXZkT9l
+    準備整合輸出為 webm 格式以及 p5.js
+    p5.js作品在此
+    https://editor.p5js.org/ponglam/sketches/hxkXZkT9l
 
 2021-03-20 15:14 bowen
-  為了能夠錄製阿邦老師所撰寫的 p5.js 動態效果
-  js animation to webm to mp4
-  並且要有背景透明的效果才可以進行實境動圖的展演
+    為了能夠錄製阿邦老師所撰寫的 p5.js 動態效果
+    js animation to webm to mp4
+    並且要有背景透明的效果才可以進行實境動圖的展演
