@@ -12,6 +12,9 @@
     <script src="cameo-record-screen.js"></script>
     <cameo-record-screen/>
 
+    這是所有公開的原始程式碼 github 網址，隨時可下載使用
+    https://github.com/bohachu/cameo-record-screen.git
+
 2021-03-20 16:13 bowen
     應該是已經錄製成功了，最佳使用方法是分頁全螢幕錄製
     todo 要問阿邦老師是否需要轉 .webm to .mp4
